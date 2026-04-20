@@ -1,1 +1,2 @@
-# Diksha-R
+Currently a student working on AIML 
+
